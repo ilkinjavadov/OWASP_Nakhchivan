@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="az">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>OWASP Sumqayıt</title>
+  <title>OWASP Sumgayit</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100 text-gray-900 font-sans">
@@ -23,7 +23,7 @@
   <section class="text-center py-20 bg-white">
     <div class="container mx-auto px-4">
       <h2 class="text-4xl font-bold mb-4">Veb Təhlükəsizliyi ilə maraqlanırsan?</h2>
-      <p class="text-xl text-gray-700 mb-6">OWASP Sumqayıt bölməsi veb təhlükəsizlik, açıq mənbə və maarifləndirmə üçün burada!</p>
+      <p class="text-xl text-gray-700 mb-6">OWASP Sumgayit bölməsi veb təhlükəsizlik, açıq mənbə və maarifləndirmə üçün burada!</p>
       <a href="#about" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl shadow-lg">Daha ətraflı</a>
     </div>
   </section>
@@ -32,7 +32,7 @@
     <div class="container mx-auto px-4">
       <h3 class="text-3xl font-bold mb-6 text-center">Haqqımızda</h3>
       <p class="text-lg text-gray-700 leading-relaxed text-center max-w-3xl mx-auto">
-        OWASP (Open Web Application Security Project) Sumqayıt bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
+        OWASP (Open Web Application Security Project) Sumgayit bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
         Biz veb tətbiqələrin təhlükəsizliyini artırmaq üçün tədbirlər, seminarlar və açıq layihələr təşkil edirik.
       </p>
     </div>
