@@ -1,11 +1,5 @@
-### Important Community Links
-* [Attacks](attacks/)
-* [Vulnerabilities](vulnerabilities/)
-* [Controls](controls/)
-* [Social](social/)
+### Leaders
 
-#### [Initiatives](initiatives/)
-* [Google Summer of Code](initiatives/gsoc/)
-* [Google Season of Docs](initiatives/gsod/)
-* [Code Sprint](initiatives/code_sprint/)
-* [Bug Bounty](initiatives/bugbounty)
+* [Aytaj Aliyeva](mailto:liyevaaytac@gmail.com)
+* [Eyyub Panjiyev](mailto:eyyub.panjiyev@gmail.com)
+
