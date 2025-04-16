@@ -71,6 +71,7 @@
 
   <footer class="bg-gray-900 text-white text-center py-4">
     <p>© 2025 OWASP Sumqayıt | Açıq Bilgi, Təhlükəsiz Dünya</p>
+https://www.linkedin.com/company/owasp-sumgait
   </footer>
 </body>
 </html>
