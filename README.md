@@ -1,50 +1,73 @@
-# OWASP Community Pages
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OWASP Sumqayıt</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900 font-sans">
+  <header class="bg-blue-800 text-white p-6 shadow-md">
+    <div class="container mx-auto flex justify-between items-center">
+      <h1 class="text-3xl font-bold">OWASP Sumqayıt</h1>
+      <nav>
+        <ul class="flex space-x-4">
+          <li><a href="#about" class="hover:underline">Haqqımızda</a></li>
+          <li><a href="#projects" class="hover:underline">Layihələr</a></li>
+          <li><a href="#contact" class="hover:underline">Əlaqə</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
-![GitHub repo size](https://img.shields.io/github/repo-size/OWASP/www-community)
+  <section class="text-center py-20 bg-white">
+    <div class="container mx-auto px-4">
+      <h2 class="text-4xl font-bold mb-4">Veb Təhlükəsizliyi ilə maraqlanırsan?</h2>
+      <p class="text-xl text-gray-700 mb-6">OWASP Sumqayıt bölməsi veb təhlükəsizlik, açıq mənbə və maarifləndirmə üçün burada!</p>
+      <a href="#about" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl shadow-lg">Daha ətraflı</a>
+    </div>
+  </section>
 
-OWASP Community Pages is a repository for community contributions for security-related content. The documents here create the website at https://owasp.org/www-community/.
+  <section id="about" class="py-20 bg-gray-100">
+    <div class="container mx-auto px-4">
+      <h3 class="text-3xl font-bold mb-6 text-center">Haqqımızda</h3>
+      <p class="text-lg text-gray-700 leading-relaxed text-center max-w-3xl mx-auto">
+        OWASP (Open Web Application Security Project) Sumqayıt bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
+        Biz veb tətbiqələrin təhlükəsizliyini artırmaq üçün tədbirlər, seminarlar və açıq layihələr təşkil edirik.
+      </p>
+    </div>
+  </section>
 
-## Contributing
+  <section id="projects" class="py-20 bg-white">
+    <div class="container mx-auto px-4">
+      <h3 class="text-3xl font-bold mb-6 text-center">Layihələr</h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="bg-gray-50 p-6 rounded-lg shadow-md">
+          <h4 class="text-xl font-semibold mb-2">OWASP Top 10 AZ</h4>
+          <p class="text-gray-700">Veb tətbiq təhlükəsizlik zəifliklərinin ilk 10-luğu barədə maarifləndirici layihə.</p>
+        </div>
+        <div class="bg-gray-50 p-6 rounded-lg shadow-md">
+          <h4 class="text-xl font-semibold mb-2">Təhlükəsiz Kod Yazımı</h4>
+          <p class="text-gray-700">Proqramçılar üçün təhlükəsiz kod nümunələri və təlimatları.</p>
+        </div>
+        <div class="bg-gray-50 p-6 rounded-lg shadow-md">
+          <h4 class="text-xl font-semibold mb-2">Cəmiyyət Seminarları</h4>
+          <p class="text-gray-700">Aylıq təhlükəsizlik görüşləri və təlimlər.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 
-We welcome contributions for new content and updates to current pages. This repository uses a [fork and pull model](https://docs.github.com/en/github/collaborating-with-pull-requests/getting-started/about-collaborative-development-models#fork-and-pull-model). Here are the steps for becoming a contributor:
+  <section id="contact" class="py-20 bg-blue-800 text-white">
+    <div class="container mx-auto px-4 text-center">
+      <h3 class="text-3xl font-bold mb-6">Əlaqə</h3>
+      <p class="mb-4">Bizimlə əlaqə saxlamaq üçün aşağıdakı e-poçt vasitəsilə yaz:</p>
+      <p class="font-semibold text-lg">ilkincavadovweb@gmail.com</p>
+    </div>
+  </section>
 
-1. [Fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) this repository and [clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository) your fork.
-2. In the `pages/` directory, make your changes or additions. For creating new content, please see below.
-3. Push your changes to your fork, then open a pull request against this repository.
-
-If you are making changes that address an [existing issue](https://github.com/OWASP/www-community/issues), please make a comment in the issue so we can assign it to you. This helps to prevent accidentally doubling up on work.
-
-### Creating New Content
-
-Go into the `pages` folder and create a new file.
-
-Place the following front matter and `include` tag at the beginning of your file. Feel free to copy and edit this example:
-
-```md
----
-
-layout: col-sidebar
-title: "My Page"
-author: "My Name"
-contributors: ["Additional Contributor Names", "If Any"]
-permalink: /MyPageTitle
-tags: ["attack", "XSS"]
-
----
-
-{% include writers.html %}
-
-Write your content here!
-
-```
-
-The fields `contributors`, `permalink`, and `tags` are optional. When in doubt, it's okay to leave them blank.
-
-### Rules for Contributors
-
-1. Your contribution must be your own original work. You may not submit copyrighted content you do not own. Please do not plagiarize.
-2. Please ensure that contributions are vendor and product neutral.
-
-### Note for Returning Contributors
-
-In July of 2020, the repository's git history was rewritten to reduce its size (over 5GB!). If you forked before this date, please [delete your fork](https://docs.github.com/en/github/administering-a-repository/deleting-a-repository) and local clones, then [re-fork](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) or [re-clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository.
+  <footer class="bg-gray-900 text-white text-center py-4">
+    <p>© 2025 OWASP Sumqayıt | Açıq Bilgi, Təhlükəsiz Dünya</p>
+  </footer>
+</body>
+</html>
