@@ -8,7 +8,7 @@
 <body class="bg-gray-100 text-gray-900 font-sans">
   <header class="bg-blue-800 text-white p-6 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
-      <h1 class="text-3xl font-bold">OWASP Sumqayıt</h1>
+      <h1 class="text-3xl font-bold">OWASP Sumgayit</h1>
       <nav>
         <ul class="flex space-x-4">
           <li><a href="#about" class="hover:underline">Haqqımızda</a></li>
