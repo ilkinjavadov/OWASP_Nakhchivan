@@ -1,7 +1,7 @@
 
 <html lang="az">
 <head>
-
+https://i.ibb.co/YBVgpZ0j/Chat-GPT-Image-Apr-16-2025-03-38-30-PM.png
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://i.ibb.co/YBVgpZ0j/Chat-GPT-Image-Apr-16-2025-03-38-30-PM.png" alt="OWASP Sumgait Chapter" style="max-width: 100%; height: auto;">
 </div>
