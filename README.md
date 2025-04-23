@@ -3,7 +3,7 @@
 <head>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://i.ibb.co/YBVgpZ0j/Chat-GPT-Image-Apr-16-2025-03-38-30-PM.png" alt="OWASP Sumgait Chapter" style="max-width: 100%; height: auto;">
+  <img src="https://i.ibb.co/YBVgpZ0j/Chat-GPT-Image-Apr-16-2025-03-38-30-PM.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
 </div>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -12,7 +12,7 @@
 <body class="bg-gray-100 text-gray-900 font-sans">
   <header class="bg-blue-800 text-white p-6 shadow-md">
     <div class="container mx-auto flex justify-between items-center">
-      <h1 class="text-3xl font-bold">OWASP Sumgait</h1>
+      <h1 class="text-3xl font-bold">OWASP Nakhchivan</h1>
       <nav>
         <ul class="flex space-x-4">
           <li><a href="#about" class="hover:underline">Haqqımızda</a></li>
@@ -26,7 +26,7 @@
   <section class="text-center py-20 bg-white">
     <div class="container mx-auto px-4">
       <h2 class="text-4xl font-bold mb-4">Veb Təhlükəsizliyi ilə maraqlanırsan?</h2>
-      <p class="text-xl text-gray-700 mb-6">OWASP Sumgait bölməsi veb təhlükəsizlik, açıq mənbə və maarifləndirmə üçün burada!</p>
+      <p class="text-xl text-gray-700 mb-6">OWASP Nakhchivan bölməsi veb təhlükəsizlik, açıq mənbə və maarifləndirmə üçün burada!</p>
       <a href="#about" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-6 py-3 rounded-xl shadow-lg">Daha ətraflı</a>
     </div>
   </section>
@@ -35,7 +35,7 @@
     <div class="container mx-auto px-4">
       <h3 class="text-3xl font-bold mb-6 text-center">Haqqımızda</h3>
       <p class="text-lg text-gray-700 leading-relaxed text-center max-w-3xl mx-auto">
-        OWASP (Open Web Application Security Project) Sumgait bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
+        OWASP (Open Web Application Security Project) Nakhchivan bölməsi, yerli inkişaf etdiricilər, tədqiqatçılar və təhlükəsizlik mütəxəssisləri üçün açıq və öyrədici platformadır.
         Biz veb tətbiqələrin təhlükəsizliyini artırmaq üçün tədbirlər, seminarlar və açıq layihələr təşkil edirik.
       </p>
     </div>
@@ -70,8 +70,7 @@
   </section>
 
   <footer class="bg-gray-900 text-white text-center py-4">
-    <p>© 2025 OWASP Sumqayıt | Açıq Bilgi, Təhlükəsiz Dünya</p>
-https://www.linkedin.com/company/owasp-sumgait
+    <p>© 2025 OWASP Nakhchivan | Açıq Bilgi, Təhlükəsiz Dünya</p>
   </footer>
 </body>
 </html>
