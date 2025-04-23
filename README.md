@@ -3,7 +3,7 @@
 <head>
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="https://i.ibb.co/YBVgpZ0j/Chat-GPT-Image-Apr-16-2025-03-38-30-PM.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
+  <img src="img src="https://i.ibb.co/T9L5yMG/Chat-GPT-Image-Apr-23-2025-10-32-26-AM.png" alt="OWASP Nakhchivan Chapter" style="max-width: 100%; height: auto;">
 </div>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
